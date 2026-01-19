@@ -16,6 +16,6 @@
 
 ## Checklists
 
-- [Header and Navigation](./Checklist/Header_and_Navigation.md)  
-- [Catalog and Search](./Checklist/Catalog_and_Search.md)  
-- [Account and Cart](./Checklist/Account_and_Cart.md)
+- [Header and Navigation](./Header_and_Navigation.md)  
+- [Catalog and Search](./Catalog_and_Search.md)  
+- [Account and Cart](./Account_and_Cart.md)
