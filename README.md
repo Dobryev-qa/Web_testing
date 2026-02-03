@@ -3,9 +3,6 @@
 ## Project Overview
 
 This repository contains manual QA artifacts created during testing of the **WebShop Demo OpenCart** web application.
-
-Testing was performed to verify core e-commerce functionality and main user flows.
-
 ---
 
 ## Application Under Test
