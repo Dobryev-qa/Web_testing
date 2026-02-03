@@ -1,8 +1,9 @@
 # WebShop Demo OpenCart – Manual QA Project
 
-## Project Overview
+## Project Overvie.
 
 This repository contains manual QA artifacts created during testing of the **WebShop Demo OpenCart** web application.
+
 ---
 
 ## Application Under Test
