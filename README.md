@@ -1,4 +1,4 @@
-# 🛒 WebShop Demo OpenCart – Manual QA Project
+# WebShop Demo OpenCart – Manual QA Project
 
 ## Project Overview
 
@@ -29,18 +29,16 @@ The following areas were covered during testing:
 
 ## Test Documentation
 
-- **Test Plan**  
+- [**Test Plan**](./Test_Plan.md)  
   Manual QA test plan covering main functionality of the OpenCart demo shop.  
-  → [Test Plan](./Test_Plan.md)
-
-- **Checklists**  
+  
+- [**Checklists**](./Checklist)  
   Functional checklists for Navigation, Catalog, Search, Registration/Authorization, and Cart.  
-  → [Checklists](./Checklist)
 
-- **Test Cases**  
+
+- [**Test Cases**](./Test_Cases.md)  
   Functional test cases for user and shopping flows, designed and executed in TestRail.  
-  → [Test Cases](./Test_Cases.md)
 
-- **Bug Reports**  
+
+- [**Bug Reports**](./Bugs/README.md)  
   Bug reports including issue description, reproduction steps, severity, and evidence (screenshots / GIFs).  
-  → [Bug Reports](./Bugs/README.md)
